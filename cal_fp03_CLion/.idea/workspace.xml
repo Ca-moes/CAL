@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
+    <generated>
+      <config projectName="CAL_FP03" targetName="gtest" />
+      <config projectName="CAL_FP03" targetName="gmock_main" />
+      <config projectName="CAL_FP03" targetName="gmock" />
+      <config projectName="CAL_FP03" targetName="gtest_main" />
+      <config projectName="CAL_FP03" targetName="CAL_FP03" />
+    </generated>
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="8b3d5725-a4a0-45fe-8de1-4cfab95c4f34" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
+  <component name="ProjectId" id="1ZGRMRgtQgi8miDdgF0z2IDRXbd" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/.." />
+    <property name="settings.editor.selected.configurable" value="preferences.customizations" />
+  </component>
+  <component name="RunManager" selected="CMake Application.CAL_FP03">
+    <configuration name="CAL_FP03" type="CMakeRunConfiguration" factoryName="Application" WORKING_DIR="file://$PROJECT_DIR$" PASS_PARENT_ENVS_2="true" PROJECT_NAME="CAL_FP03" TARGET_NAME="CAL_FP03" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="CAL_FP03" RUN_TARGET_NAME="CAL_FP03">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="gmock" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="CAL_FP03" TARGET_NAME="gmock" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="gmock_main" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="CAL_FP03" TARGET_NAME="gmock_main" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="gtest" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="CAL_FP03" TARGET_NAME="gtest" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="gtest_main" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="CAL_FP03" TARGET_NAME="gtest_main" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="CMake Application.CAL_FP03" />
+      <item itemvalue="CMake Application.gmock" />
+      <item itemvalue="CMake Application.gmock_main" />
+      <item itemvalue="CMake Application.gtest" />
+      <item itemvalue="CMake Application.gtest_main" />
+    </list>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8b3d5725-a4a0-45fe-8de1-4cfab95c4f34" name="Default Changelist" comment="" />
+      <created>1584463395742</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1584463395742</updated>
+      <workItem from="1584463398890" duration="5131000" />
+      <workItem from="1585065854374" duration="108000" />
+      <workItem from="1585066246640" duration="18000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="631" y="-878" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1584463612364">
+      <screen x="0" y="-1080" width="1920" height="1080" />
+    </state>
+    <state x="631" y="-878" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.864/0.-1080.1920.1080@0.-1080.1920.1080" timestamp="1584463612364" />
+    <state x="766" y="242" key="FileChooserDialogImpl" timestamp="1585066262904">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="957" y="-778" key="FileChooserDialogImpl/0.0.1536.864/0.-1080.1920.1080@0.-1080.1920.1080" timestamp="1584463610178" />
+    <state x="766" y="242" key="FileChooserDialogImpl/0.0.1536.864@0.0.1536.864" timestamp="1585066262904" />
+    <state width="914" height="292" key="GridCell.Tab.0.bottom" timestamp="1584516982403">
+      <screen x="0" y="-1080" width="1920" height="1080" />
+    </state>
+    <state width="914" height="292" key="GridCell.Tab.0.bottom/0.0.1536.864/0.-1080.1920.1080@0.-1080.1920.1080" timestamp="1584516982403" />
+    <state width="914" height="292" key="GridCell.Tab.0.center" timestamp="1584516982403">
+      <screen x="0" y="-1080" width="1920" height="1080" />
+    </state>
+    <state width="914" height="292" key="GridCell.Tab.0.center/0.0.1536.864/0.-1080.1920.1080@0.-1080.1920.1080" timestamp="1584516982403" />
+    <state width="914" height="292" key="GridCell.Tab.0.left" timestamp="1584516982403">
+      <screen x="0" y="-1080" width="1920" height="1080" />
+    </state>
+    <state width="914" height="292" key="GridCell.Tab.0.left/0.0.1536.864/0.-1080.1920.1080@0.-1080.1920.1080" timestamp="1584516982403" />
+    <state width="914" height="292" key="GridCell.Tab.0.right" timestamp="1584516982403">
+      <screen x="0" y="-1080" width="1920" height="1080" />
+    </state>
+    <state width="914" height="292" key="GridCell.Tab.0.right/0.0.1536.864/0.-1080.1920.1080@0.-1080.1920.1080" timestamp="1584516982403" />
+    <state x="909" y="291" key="com.intellij.ide.util.TipDialog" timestamp="1585066246857">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="1136" y="-716" key="com.intellij.ide.util.TipDialog/0.0.1536.864/0.-1080.1920.1080@0.-1080.1920.1080" timestamp="1584463398789" />
+    <state x="909" y="291" key="com.intellij.ide.util.TipDialog/0.0.1536.864@0.0.1536.864" timestamp="1585066246857" />
+  </component>
+</project>

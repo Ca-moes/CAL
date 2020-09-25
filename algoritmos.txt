@@ -1,0 +1,74 @@
+- Programação Dinâmica
+Combinações - T(n) = O(K(n-K))
+Fibonacci - T(n) = O(n) & S(n) = O(1)
+Mochila 
+
+- Algoritmos Gananciosos
+Troco ganancioso 
+
+- Divisão e conquista
+Merge Sort - T(n) = O(n log n) 
+QuickSort - T(n) = O(n^2) [pior] | T(n) = O(n log n) médio/melhor
+Binary Search - T(n) = O(log n) 
+
+- Funcionamento Correto
+Binary Search - T(n) = O(log n)
+Insertion Sort - T(n) = O(n^2) 
+
+- Retrocesso
+Soma de Subconjuntos 
+Troco 
+
+- Grafos: Pesquisa e Ordenação
+Pesquisa em Profundidade DFS 
+Pesquisa em Largura BFS 
+Ordenação Topológica - T(n) = O(|V| + |E|) 
+
+- Grafos:caminho mais curto I
+Dirigido Despesado - S(n) = O(|V|) | T(n) = O(|V| + |E|) 
+Dijkstra|Dirigido Pesado - T(n) = O((|V| + |E|)*log|V|)
+    - T(n) = O(|V| * log|V|) - fila de prioridades
+    - T(n) = O(|E| * log|V|) - DECREASE-KEY
+    -- Melhorar para T(n) = O(|V| * log|V|) com Fibonacci Heaps
+Bellman-Ford|Dirigido Pesado neg.  - T(n)=O(|V||E|) 
+
+- Grafos: caminho mais curto II
+A* - 
+HighWay Networks - 
+Dijkstra (todos vértices) - T(n) = O(|V| (|V| + |E|) log|V|) 
+Floyd-Warshall - T(n) = O(|V|^3) 
+
+- Árvore Expansão mínima
+Prim - T(n) = O(|V|^2) (s/fila prioridade) | T(n) = O(|E|log|V|) (c/fila prioridade)
+Kruskal - T(n) = O(|E|log|E|) or O(|E|log|V|) 
+
+- Conectividade
+Pontos de Articulação com DFS - T(n) = O(|E| + |V|) 
+
+- Fluxo Máximo Redes Transportes
+Ford-Fulkerson - cada iteração[F] = O(|E|) | T(n)=O(F|E|) 
+Edmods-Karp - T(n) = O(|V||E|^2)
+Dinic - T(n) = O(|V|^2|E|)
+Dinic (redes unitárias) - T(n) = O(|V|^(1/2)|E|)
+
+-Circuitos de Euler e Carteiro Chinês
+DFS para encontrar circuito Euler - T(n)=O(|E|+|V|)
+
+-Emparelhamento e Casamentos estáveis
+Gale-Shapley - T(n) = O(n^2)
+
+-Strings - Pesquisa Exata
+Naïve - T(n) = O(|P||T|)
+Automato - T(n) = O(|P||Σ|)
+Knuth-Morris-Pratt - T(n) = O(|T|+|P|)
+
+-Strings - Pesquisa Aproximada
+EditDistance - T(n) & S(n) = O(|P||T|)
+
+-Compressão de Texto
+Keyword encoding
+Run-lenght encoding (RLE)
+Huffman Code
+
+-NP-completos
+Circuito Hamiltoniano

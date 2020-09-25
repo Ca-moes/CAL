@@ -1,0 +1,5 @@
+C:\Users\andre_4mxog39\AppData\Local\JetBrains\Toolbox\apps\CLion\ch-0\193.6911.21\bin\cmake\win\bin\cmake.exe -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - MinGW Makefiles" C:\Data\Andre\Work\MIEIC_ANO2_SEMESTRE2\CAL\cal_fp03_CLion
+-- Could NOT find PythonInterp (missing: PYTHON_EXECUTABLE) 
+-- Configuring done
+-- Generating done
+-- Build files have been written to: C:/Data/Andre/Work/MIEIC_ANO2_SEMESTRE2/CAL/cal_fp03_CLion/cmake-build-debug

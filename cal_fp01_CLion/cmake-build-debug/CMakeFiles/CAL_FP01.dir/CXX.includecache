@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Data/Andre/Work/MIEIC_ANO2_SEMESTRE2/CAL/cal_fp01_CLion/Tests/Partitioning.cpp
+Partitioning.h
+C:/Data/Andre/Work/MIEIC_ANO2_SEMESTRE2/CAL/cal_fp01_CLion/Tests/Partitioning.h
+
+C:/Data/Andre/Work/MIEIC_ANO2_SEMESTRE2/CAL/cal_fp01_CLion/Tests/Partitioning.h
+iostream
+-
+vector
+-
+
